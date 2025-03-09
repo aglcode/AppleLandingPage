@@ -6,8 +6,8 @@ import Showcase from './components/Showcase.jsx'
 const App = () => {
   return (
     <main className='relative min-h-screen w-screen overflow-x-hidden'>
-   <Hero />
-   <Features />
+   {/* <Hero /> */}
+   {/* <Features /> */}
    <Showcase />
    </main>
   )
